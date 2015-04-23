@@ -1,0 +1,36 @@
+{
+  "name": "ti-ducktype",
+  "version": "1.0.0",
+  "description": "Titanium CommonJS module of Flexible data validation using a ducktype interface.",
+  "titaniumManifest": {
+    "name": "ducktype",
+    "moduleid": "ducktype",
+    "guid": "4fc9e085-51d0-9c92-fd11-ace0ea892f99"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etruta/ti-ducktype.git"
+  },
+  "keywords": [
+    "titanium",
+    "appcelerator",
+    "ducktype",
+    "remove",
+    "removal",
+    "search",
+    "string"
+  ],
+  "author": "Eduardo Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etruta/ti-ducktype/issues"
+  },
+  "homepage": "https://github.com/etruta/ti-ducktype",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-titaniumifier": "^1.1.0"
+  },
+  "dependencies": {  
+  }
+}
